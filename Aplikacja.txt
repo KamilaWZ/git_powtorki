@@ -1,5 +1,5 @@
    public void logowanie() {
         System.out.println("Podaj bazwę użytkownika");
-        System.out.println("Podaj hasło haha");
+        System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
